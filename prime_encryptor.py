@@ -47,7 +47,7 @@ def ROT20encrypt(text):
     for i in text:
         ciphertext.append((i + 20) % 256)
 
-    print(ciphertext)
+    #print(ciphertext)
 
     formatted_ciphertext = ','.join(f'0x{byte:02x}' for byte in ciphertext)
     print(f'unsigned char ciphertext[] = {{{formatted_ciphertext}}};')
