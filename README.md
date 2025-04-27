@@ -72,4 +72,4 @@ TO COMPILE:
 - Run the commands in a terminal with the required permissions.
 
 
-![image_alt](https://github.com/dagowda/DSViper/blob/c9bc60a60bc73fb523a935b8d188fbec5b1521fa/img/screenshot2.png) 
+![image_alt](https://github.com/dagowda/PrimeEncryptor/blob/ca37a805b9147f16fc9f8e1c92f4c76e234a0d22/images/screenshot2.png) 
