@@ -16,7 +16,7 @@ Clone the repository and set up the environment.
 
 ### **Installation**
 ```bash
-git clone https://github.com/dagowda/DSViper.git
+git clone https://github.com/dagowda/PrimeEncryptor.git
 cd PrimeEncryptor
 sudo apt-get update
 sudo apt-get install -y mingw-w64
