@@ -2,7 +2,7 @@
 
 **PrimeEncryptor**  is a flexible Dynamic Shellcode Encryptor designed to generate encrypted shellcode using multiple encryption techniques. This tool creates encrypted .bin files, which can be embedded in the resource section of an executable. During runtime, the executable dynamically decrypts and loads the shellcode, helping bypass antivirus and security solutions by evading detection. The encrypted payloads are decrypted at runtime via a loader.
 
-Additionally, PrimeEncryptor provides sample C++ code snippets that give you the necessary functions to load the encrypted shellcode directly from the resource segment of the executable. These code snippets simplify the process of embedding and dynamically loading the shellcode, ensuring efficient execution while maintaining stealth.
+Additionally, PrimeEncryptor provides sample C++ code snippets that give you the necessary functions to load the encrypted shellcode directly from the resource segment of the executable. These code snippets simplify the process of embedding and dynamically loading the shellcode, ensuring efficient execution while maintaining stealth.You can use these functions in your own loaders.
 
 ---
 
