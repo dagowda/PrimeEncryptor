@@ -7,7 +7,7 @@ Additionally, PrimeEncryptor provides sample C++ code snippets that give you the
 ---
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/dagowda/PrimeEncryptor/blob/1c17d0996fa7276918411d23b72190158d84bc0c/images/screenshot1.png">
 </p>
 
 # ✔️ **Installation**
